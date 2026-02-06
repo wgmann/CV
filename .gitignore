@@ -1,6 +1,0 @@
-# --- Deny-all by default ---
-*
-
-# --- whitelist gitignore and CV only ---
-!.gitignore
-!CV.pdf
